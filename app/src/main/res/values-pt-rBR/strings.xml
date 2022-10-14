@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Super Art Quiz </string>
+    <string name="result">Resultado</string>
+    <string name="finish">Finalizar</string>
+    <string name="doBetter">Sei que você pode fazer melhor</string>
+    <string name="veryGood">Você é muito bom!</string>
+    <string name="excel">Você é excelente!</string>
+    <string name="perfect">Perfeito!</string>
+    <string name="artQuiz">Quiz de arte!</string>
+    <string name="name">Nome</string>
+    <string name="start">Iniciar</string>
+    <string name="message">Todas as pinturas são de domínio público e podem ser encontradas em:</string>
+    <string name="site">https://www.metmuseum.org</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="next">Próximo</string>
+    <string name="whoPaint">Quem pintou?</string>
+    <string name="enterName">Digite seu nome</string>
+    <string name="submit">Enviar</string>
+    <string name="rt">Por favor, certifique-se de:</string>
+    <string name="rateText"> Certifique-se de: </string>
+    <string name="rate">Avaliar o aplicativo</string>
+    <string name="informName">Informe seu nome</string>
+</resources>
